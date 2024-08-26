@@ -13,5 +13,10 @@ This repository contains a machine learning project aimed at predicting the pric
 + Scikit-learn, XGBoost
 + Matplotlib, Seaborn
 + Flask (for deployment)
+# How to Use
++ Clone the repository
++ Install required dependencies
++ Run the Jupyter notebooks for training and evaluation
++ Use the deployment script to make predictions on new data
 
 
